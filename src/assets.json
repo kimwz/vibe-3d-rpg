@@ -1,0 +1,114 @@
+{
+  "characters": {
+    "spaceMarine": {
+      "url": "https://agent8-games.verse8.io/assets/3d/characters/space-marine.glb",
+      "description": "3D Space Marine character model for the RPG game"
+    },
+    "soldier": {
+      "url": "https://agent8-games.verse8.io/assets/3D/characters/solider.glb",
+      "description": "Standard soldier character model. Suitable for modern combat scenarios, military simulations, and tactical games."
+    },
+    "deadpool": {
+      "url": "https://agent8-games.verse8.io/assets/3D/characters/deadpool.glb",
+      "description": "Deadpool character model of Marvel Comics. Suitable for casual action and comedy scenarios."
+    },
+    "knight": {
+      "url": "https://agent8-games.verse8.io/assets/3D/characters/knight.glb",
+      "description": "Medieval knight character model with armor. Suitable for fantasy or historical scenarios requiring armored warriors."
+    },
+    "gunslinger": {
+      "url": "https://agent8-games.verse8.io/assets/3D/characters/gunslinger.glb",
+      "description": "Gunslinger character model created with Meshy AI. Suitable for western or action scenarios requiring a skilled shooter character."
+    }
+  },
+  "animations": {
+    "idle": {
+      "url": "https://agent8-games.verse8.io/assets/3D/animations/mixamorig/idle.glb",
+      "description": "Idle animation for character"
+    },
+    "walk": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/walk.glb",
+      "description": "Walking animation for character"
+    },
+    "run": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/run.glb",
+      "description": "Running animation for character"
+    },
+    "jumpUp": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/jump-up.glb",
+      "description": "Jump up animation for character"
+    },
+    "fallIdle": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/fall-idle.glb",
+      "description": "Falling idle animation for character"
+    },
+    "fallDown": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/fall-down.glb",
+      "description": "Fall down animation for character"
+    },
+    "punch": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/punch.glb",
+      "description": "Punch animation for character"
+    },
+    "meleeAttack": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/melee-attack.glb",
+      "description": "Melee attack animation for character"
+    },
+    "aim": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/aimming.glb",
+      "description": "Aiming animation for character"
+    },
+    "shoot": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/shoot.glb",
+      "description": "Shooting animation for character"
+    },
+    "aimRun": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/shoot-run.glb",
+      "description": "Running while aiming animation for character"
+    },
+    "hit": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/hit.glb",
+      "description": "Hit reaction animation for character"
+    },
+    "die": {
+      "url": "https://agent8-games.verse8.io/assets/3d/animations/mixamorig/death.glb",
+      "description": "Death animation for character"
+    }
+  },
+  "environment": {
+    "ground": {
+      "url": "https://placehold.co/600x400?text=Ground",
+      "description": "Ground texture for the RPG world"
+    },
+    "grassTexture": {
+      "url": "https://agent8-games.verse8.io/assets/3D/textures/effects/grass_blade_diffuse.jpg",
+      "description": "Texture for grass blade diffuse. Used for grass effects."
+    },
+    "grassAlpha": {
+      "url": "https://agent8-games.verse8.io/assets/3D/textures/effects/grass_blade_alpha.jpg",
+      "description": "Texture for grass blade alpha. Used for grass effects."
+    }
+  },
+  "objects": {
+    "tree": {
+      "url": "https://agent8-games.verse8.io/assets/3D/objects/cartoon/survival/tree.glb",
+      "description": "A basic tree model, used for creating natural environments in survival games."
+    },
+    "tallTree": {
+      "url": "https://agent8-games.verse8.io/assets/3D/objects/cartoon/survival/tree-tall.glb",
+      "description": "A tall tree model, used for creating forest environments in survival games."
+    },
+    "rockFlatGrass": {
+      "url": "https://agent8-games.verse8.io/assets/3D/objects/cartoon/survival/rock-flat-grass.glb",
+      "description": "A flat rock with grass model, used for creating natural environments in survival games."
+    },
+    "grassPatch": {
+      "url": "https://agent8-games.verse8.io/assets/3D/objects/cartoon/survival/patch-grass.glb",
+      "description": "A grass patch model, used to create natural environments in survival games."
+    },
+    "grassPatchLarge": {
+      "url": "https://agent8-games.verse8.io/assets/3D/objects/cartoon/survival/patch-grass-large.glb",
+      "description": "A large grass patch model, used to create natural environments in survival games."
+    }
+  }
+}
